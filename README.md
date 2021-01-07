@@ -4,7 +4,7 @@ COGS 9 - Introduction to Data Science - is a class offered by the Cognitive Scie
 
 ## Syllabus
 
-The most recent iteration of this class is Winter quarter 2021, the **syllabus** for which is available as a PDF [here](COGS9_Wi20.pdf)
+The most recent iteration of this class is Winter quarter 2021, the **syllabus** for which is available as a PDF [here](COGS9_Wi21.pdf)
 
 ## Readings
 
