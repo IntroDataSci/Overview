@@ -12,4 +12,4 @@ You will be quizzed on the [readings](https://github.com/IntroDataSci/Readings),
 
 ## Final Projects
 
-A core component of the class is completing a group project. You can find examples of high quality projects from past quarters [here](https://github.com/IntroDataSci/Overview/FinalProjects).
+A core component of the class is completing a group project. You can find examples of high quality projects from past quarters [here](Overview/FinalProjects).
