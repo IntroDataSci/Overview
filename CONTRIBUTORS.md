@@ -23,3 +23,5 @@ The following people have contributed to this organization / class:
 - Aparna Srinivisan (Wi21)
 - Dillan Cellier (Wi22)
 - Aarushi Sehgal (Wi22)
+- Harshada Yadav (Fa23)
+- James Michaelov (Fa23)
